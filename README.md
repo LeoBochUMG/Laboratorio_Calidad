@@ -32,7 +32,7 @@ To see the back-end of this application implemented with Java Spring, see [here]
 ![All Products](https://i.imgur.com/uOhOmrw.png)
 
 ### Books
-
+    
 ![Books](https://i.imgur.com/cmP4MOO.png)
 
 ### Mouse Pads
